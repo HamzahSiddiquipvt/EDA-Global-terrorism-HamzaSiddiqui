@@ -1,4 +1,4 @@
-The term "Terrorism" is devided from Latin Word "Terror" , which refers to "Great Fear". The word "Terrorism" was first used during "French Revolution" in the year 1795.
+The term "Terrorism" is devided from Latin Word "Terror" , which refers to "Great Fear". The word "Terrorism" was first used during "French Revolution" in the year 1795....
 
 The Global Terrorism Dataset(GTD) summarizes all the terrorist attacks globally from 1970 to 2013.
 
